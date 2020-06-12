@@ -1,18 +1,20 @@
-# NLW-1.0
-## Project created at Rocketseat's Next Level Week event
+# Ecoleta
+### :information_source: &nbsp; Ecoleta was the project developed during the week, it has the purpose of joining the collection points with waste
 #### Screenshot
-
 
 <img src="./assets/banner.png" alt="Ecoleta"></img>
 
-### 🛠 &nbsp; Technologies Used
+### 🛠 &nbsp; Main technologies used
 These were the technologies used to create the Back-end, the front-end and the mobile
 
-- [Expo][https://expo.io/]
-- [Node.js][https://nodejs.org/en/]
-- [React][https://pt-br.reactjs.org/]
-- [React Native][https://reactnative.dev/]
-- [TypeScript][https://www.typescriptlang.org/]
+- Expo[https://expo.io/]
+- Node.js(https://nodejs.org/en/)
+- React(https://pt-br.reactjs.org/)
+- React Native(https://reactnative.dev/)
+- TypeScript(https://www.typescriptlang.org/)
+
+### 🔖 &nbsp; Layout
+To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
 ### 🚀 &nbsp; How to run
 #### FRONT-END
@@ -54,3 +56,6 @@ $ npm install
 # Finally, run:
 $ npm run start
 ```
+---
+
+## Made with ♥ &nbsp; by Douglas Nicolas
