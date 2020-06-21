@@ -1,5 +1,5 @@
-# Ecoleta
-### :information_source: &nbsp; Ecoleta was the project developed during the week, it has the purpose of joining the collection points with waste
+# :recycle: Ecoleta :recycle:
+ :information_source: &nbsp; Ecoleta was the project developed during the week, it has the purpose of joining the collection points with waste
 #### Screenshot
 
 <img src="./assets/banner.png" alt="Ecoleta"></img>
